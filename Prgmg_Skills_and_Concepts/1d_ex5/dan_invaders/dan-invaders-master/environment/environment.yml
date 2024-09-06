@@ -1,0 +1,10 @@
+name: dan_invaders
+channels:
+  - defaults
+dependencies:
+  - python=3.9.16
+  - ipykernel
+  - pip
+  - pip:
+    - pygame==2.5.1
+prefix: /home/dan/anaconda3/envs/dan_invaders
