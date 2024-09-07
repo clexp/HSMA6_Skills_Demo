@@ -1,0 +1,14 @@
+name: tf_hsma
+channels:
+  - defaults
+dependencies:
+  - python=3.11.4
+  - ipykernel
+  - pip=23.3.1
+  - pip:
+    - tensorflow==2.16.1
+    - pandas==2.2.1
+    - matplotlib==3.8.3
+    - scikit-learn==1.4.1.post1
+prefix: C:\Users\dan\anaconda3\envs\tf_hsma
+
