@@ -84,4 +84,10 @@ This classifiers built on bass theorem assumes all features in the data are inde
 
 ## Regression Problems
 
-When we are trying to make a machine learning model learn numerical patterns of data we call this a reggression problem.
+When we are trying to make a machine learning model learn numerical patterns of data we call this a reggression problem. Decision trees can do regression problems but the usual metrics of measuring performance for aggression can't be used in decision trees so we need a different set of metrics. We use the main absolute error. We determine the scaler error and calculate the main and lower is better in addition to this we calculate the absolute percentage error and the main squared error.
+
+The coefficient to the determination is R squared it is the proportion of the variation of the independent variable that is predictable from the independent variables higher is better. It has a maximum of one it's calculated as one minus the sum of the squared residuals over the total sum of squares.
+
+## Data preparation
+
+For some models, we need the data to be binary and not discreet classes. The data can be processed with one hot and coding. This is where the single category is split into multiple columns which are all zero accepting the category column for that row in the table, this used to be a chief encoding mechanism for natural language processing pandas can do this processing with the get dummies function. You may need to generate your own column names. (Can you write a function for this?)

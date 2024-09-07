@@ -1,0 +1,7 @@
+/papers/
+requirements.txt
+*/catboost_info/*
+_OLD/*
+.~lock.*
+*hsma_stroke.csv
+*processed_data.csv

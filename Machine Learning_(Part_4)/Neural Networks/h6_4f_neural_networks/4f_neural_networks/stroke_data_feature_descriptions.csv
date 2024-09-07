@@ -1,0 +1,51 @@
+Feature,Description
+# Comorbidities,Number of comorbidities
+2+ comorbidotes,If the patient had at least two comorbidities
+80+,If the patient is aged 80 or over
+Age,Age of patient
+Anticoag before stroke_0,Did not take anticoagulants before stroke
+Anticoag before stroke_1,Did take anticoagulants before stroke
+Anticoag before stroke_NK,Not known if was taking anticoagulants before stroke
+Antiplatelet_0,Did not receive antiplatelet treatment
+Antiplatelet_1,Did receive antiplatelet treatment
+Antiplatelet_NK,Not known if received antiplatelet treatment
+Atrial Fib,Patient has atrial fibrillation
+Co-mordity,If the patient has any comorbidities at all
+Congestive HF,Patient has congestive heart failure
+Diabetes,Patient has diabetes
+Hosp_1,Taken to hospital 1
+Hosp_2,Taken to hospital 2
+Hosp_3,Taken to hospital 3
+Hosp_4,Taken to hospital 4
+Hosp_5,Taken to hospital 5
+Hosp_6,Taken to hospital 6
+Hosp_7,Taken to hospital 7
+Hypertension,Patient has hypertension
+Male,Patient is male
+Onset Time Known Type_BE,Onset time type is Best Estimate
+Onset Time Known Type_NK,Onset time type is Not Known
+Onset Time Known Type_P,Onset time type is Precise
+S2NihssArrival,Stroke severity (NIHSS score) on arrival : total (higher = more severe)
+S2NihssArrivalBestGaze,Stroke severity (NIHSS score) on arrival : eye movement
+S2NihssArrivalBestLanguage,Stroke severity (NIHSS score) on arrival : communication
+S2NihssArrivalDysarthria,Stroke severity (NIHSS score) on arrival : slurring
+S2NihssArrivalExtinctionInattention,"Stroke severity (NIHSS score) on arrival : ability to relate to stimuli, recognise surroundings"
+S2NihssArrivalFacialPalsy,Stroke severity (NIHSS score) on arrival : facial paralysis
+S2NihssArrivalLimbAtaxia,Stroke severity (NIHSS score) on arrival : limb coordination
+S2NihssArrivalLocCommands,"Stroke severity (NIHSS score) on arrival : level of consciousness, obeys commands"
+S2NihssArrivalLocQuestions,"Stroke severity (NIHSS score) on arrival : level of consciousness, answers questions"
+S2NihssArrivalMotorArmLeft,Stroke severity (NIHSS score) on arrival : movement of left arm
+S2NihssArrivalMotorArmRight,Stroke severity (NIHSS score) on arrival : movement of right arm
+S2NihssArrivalMotorLegLeft,Stroke severity (NIHSS score) on arrival : movement of left leg
+S2NihssArrivalMotorLegRight,Stroke severity (NIHSS score) on arrival : movement of right leg
+S2NihssArrivalSensory,Stroke severity (NIHSS score) on arrival : sense of touch
+S2NihssArrivalVisual,Stroke severity (NIHSS score) on arrival : blind spots
+S2RankinBeforeStroke,Pre-stroke disability level (Modified Rankin Score)
+Stroke severity group_1. No stroke symtpoms,Stroke severity 1 - no symptoms
+Stroke severity group_2. Minor,Stroke severity 2 - minor
+Stroke severity group_3. Moderate,Stroke severity 3 - moderate
+Stroke severity group_4. Moderate to severe,Stroke severity 4 - moderate to severe
+Stroke severity group_5. Severe,Stroke severity 5 - severe
+Stroke Type_I,Ischemic stroke
+Stroke Type_PIH,Pregnancy-induced Hypertension stroke
+TIA,"Stroke was a transient ischaemic attack (""mini stroke"")"
