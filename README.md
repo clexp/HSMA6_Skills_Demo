@@ -10,3 +10,5 @@ This is also somewhat a body of work to demonstrate 'work done'.
 
 This covers dates April to November 2024. Dated work after this is really corrections, and missing files added to the repo.  
 All questions open, please message me.
+
+Please note some of the files are small repos lifted whole from the HSMA Github profile.  They are helpful for some of the data exercises.  
