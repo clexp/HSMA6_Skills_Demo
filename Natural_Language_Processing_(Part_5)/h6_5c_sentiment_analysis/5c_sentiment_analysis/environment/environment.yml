@@ -1,0 +1,13 @@
+name: nlp_sa
+channels:
+  - defaults
+dependencies:
+  - python=3.11.4
+  - ipykernel
+  - pip
+  - pip:
+    - tensorflow==2.16.1
+    - tensorflow-hub==0.16.1
+    - tensorflow-datasets==4.9.4
+    - pandas==2.2.2
+prefix: C:\Users\dan\anaconda3\envs\nlp_sa

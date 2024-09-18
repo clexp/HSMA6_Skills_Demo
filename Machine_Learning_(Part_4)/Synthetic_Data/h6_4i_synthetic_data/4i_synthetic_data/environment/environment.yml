@@ -1,0 +1,12 @@
+name: smote_hsma
+channels:
+  - defaults
+dependencies:
+  - python=3.11.4
+  - ipykernel
+  - pip=23.3.1
+  - pip:
+    - imblearn
+    - pandas==2.2.1
+    - matplotlib==3.8.3
+prefix: C:\Users\dan\anaconda3\envs\smote_hsma
